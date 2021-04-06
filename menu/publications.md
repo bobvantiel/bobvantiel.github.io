@@ -15,17 +15,17 @@ title: Publications
 
 * Sherry Yong Chen and **Bob van Tiel**. [Every ambiguity isn't syntactic in nature: Testing the Rational Speech Act model of scope ambiguity](https://scholarworks.umass.edu/scil/vol4/iss1/24/). Proceedings of the Society for Computation in Linguistics, 4, 24.
 
-* Bob van Tiel, Gaétane Deliens, Philippine Geelhand, Anke Murillo Oosterwijk, and Mikhail Kissine. [Strategic deception in adults with Autism Spectrum Disorder](https://link.springer.com/article/10.1007/s10803-020-04525-0). Journal of Autism and Developmental Disorders, 51, 255-266.
+* **Bob van Tiel**, Gaétane Deliens, Philippine Geelhand, Anke Murillo Oosterwijk, and Mikhail Kissine. [Strategic deception in adults with Autism Spectrum Disorder](https://link.springer.com/article/10.1007/s10803-020-04525-0). Journal of Autism and Developmental Disorders, 51, 255-266.
 
 2019
 
-* Bob van Tiel. ["The case against fuzzy logic revisited" revisited](https://www.ledonline.it/snippets/allegati/snippets37039.pdf). Snippets, 37, 100-102.
+* **Bob van Tiel**. ["The case against fuzzy logic revisited" revisited](https://www.ledonline.it/snippets/allegati/snippets37039.pdf). Snippets, 37, 100-102.
 
-* Bart Geurts, Mikhail Kissine, and Bob van Tiel. Pragmatic reasoning in autism. In Kinga Morsanyi and Ruth Byrne (Eds.), Thinking, reasoning and decision making in autism. Psychology Press (pp. 113-134). Routledge.
+* Bart Geurts, Mikhail Kissine, and **Bob van Tiel**. Pragmatic reasoning in autism. In Kinga Morsanyi and Ruth Byrne (Eds.), Thinking, reasoning and decision making in autism. Psychology Press (pp. 113-134). Routledge.
 
-* Bob van Tiel, Elizabeth Pankratz, Paul Marty, and Chao Sun. [Scalar inferences and cognitive load](https://semanticsarchive.net/Archive/Tg3ZGI2M/Vantiel.pdf). In M. Teresa Espinal et al. (Eds.), Proceedings of Sinn und Bedeutung 23 (pp. 427-441).
+* **Bob van Tiel**, Elizabeth Pankratz, Paul Marty, and Chao Sun. [Scalar inferences and cognitive load](https://semanticsarchive.net/Archive/Tg3ZGI2M/Vantiel.pdf). In M. Teresa Espinal et al. (Eds.), Proceedings of Sinn und Bedeutung 23 (pp. 427-441).
 
-(Philippine Geelhand, Philippe Bernard, Olivier Klein, Bob van Tiel, and Mikhail Kissine) The role of gender in the perception of autism symptom severity and future behavioral development. Molecular Autism, 10 (1), 1-16.
+* Philippine Geelhand, Philippe Bernard, Olivier Klein, **Bob van Tiel**, and Mikhail Kissine) [The role of gender in the perception of autism symptom severity and future behavioral development](https://molecularautism.biomedcentral.com/articles/10.1186/s13229-019-0266-4). Molecular Autism, 10, 1-16.
 
 (Bob van Tiel, Elizabeth Pankratz, and Chao Sun) Scales and scalarity: processing scalar inferences. Journal of Memory and Language, 105, 93-107.
 
