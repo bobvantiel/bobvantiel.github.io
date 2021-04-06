@@ -31,9 +31,9 @@ title: Publications
 
 **2018**
 
-* **Bob van Tiel** and Mikhail Kissine. Quantity-based reasoning in the broader autism phenotype: A web-based study. Applied Psycholinguistics, 39 (6), 1373-1403.
+* **Bob van Tiel** and Mikhail Kissine. [Quantity-based reasoning in the broader autism phenotype: A web-based study](https://sites.google.com/site/bobvantiel/quantityautism.pdf). Applied Psycholinguistics, 39 (6), 1373-1403.
 
-(Bob van Tiel, Ira Noveck, and Mikhail Kissine) Reasoning with 'some'. Journal of Semantics, 35 (4), 757-797.
+* **Bob van Tiel**, Ira Noveck, and Mikhail Kissine. [Reasoning with 'some'](https://sites.google.com/site/bobvantiel/reasoningwithsome.pdf). Journal of Semantics, 35 (4), 757-797.
 
 2017
 (Bob van Tiel and Walter Schaeken) Processing conversational implicatures: alternatives and counterfactual reasoning. Cognitive Science, 41 (5), 1119-1154.
