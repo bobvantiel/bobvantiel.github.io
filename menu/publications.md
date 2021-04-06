@@ -21,7 +21,7 @@ title: Publications
 
 * **Bob van Tiel**. <a href="https://www.ledonline.it/snippets/allegati/snippets37039.pdf" target="_blank">"The case against fuzzy logic revisited" revisited</a>. Snippets, 37, 100-102.
 
-* Bart Geurts, Mikhail Kissine, and **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/pragmaticsasd.pdf" target="_blank">Pragmatic reasoning in autism</a>. In Kinga Morsanyi and Ruth Byrne (Eds.), Thinking, reasoning and decision making in autism. Psychology Press (pp. 113-134). Routledge.
+* Bart Geurts, Mikhail Kissine, and **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/pragmaticsasd.pdf" target="_blank">Pragmatic reasoning in autism</a>. In Kinga Morsanyi and Ruth Byrne (Eds.), Thinking, reasoning and decision making in autism. (pp. 113-134). Routledge.
 
 * **Bob van Tiel**, Elizabeth Pankratz, Paul Marty, and Chao Sun. <a href="https://semanticsarchive.net/Archive/Tg3ZGI2M/Vantiel.pdf" target="_blank">Scalar inferences and cognitive load</a>. In M. Teresa Espinal et al. (Eds.), Proceedings of Sinn und Bedeutung 23 (pp. 427-441).
 
@@ -31,40 +31,48 @@ title: Publications
 
 **2018**
 
-* **Bob van Tiel** and Mikhail Kissine. <a href="https://sites.google.com/site/bobvantiel/quantityautism.pdf" target="_blank">Quantity-based reasoning in the broader autism phenotype: A web-based study</a>. Applied Psycholinguistics, 39 (6), 1373-1403.
+* **Bob van Tiel** and Mikhail Kissine. <a href="https://sites.google.com/site/bobvantiel/quantityautism.pdf" target="_blank">Quantity-based reasoning in the broader autism phenotype: A web-based study</a>. Applied Psycholinguistics, 39, 1373-1403.
 
-* **Bob van Tiel**, Ira Noveck, and Mikhail Kissine. <a href="https://sites.google.com/site/bobvantiel/reasoningwithsome.pdf" target="_blank">Reasoning with 'some'</a>. Journal of Semantics, 35 (4), 757-797.
+* **Bob van Tiel**, Ira Noveck, and Mikhail Kissine. <a href="https://sites.google.com/site/bobvantiel/reasoningwithsome.pdf" target="_blank">Reasoning with 'some'</a>. Journal of Semantics, 35, 757-797.
 
-2017
-(Bob van Tiel and Walter Schaeken) Processing conversational implicatures: alternatives and counterfactual reasoning. Cognitive Science, 41 (5), 1119-1154.
+**2017**
 
-2016
-(Bart Geurts and Bob van Tiel) When "all the five circles" are four: new exercises in domain restriction. Topoi, 35 (1), 109-122.
+* **Bob van Tiel** and Walter Schaeken. <a href="https://sites.google.com/site/bobvantiel/processingimplicature.pdf" target="_blank">Processing conversational implicatures: Alternatives and counterfactual reasoning</a>. Cognitive Science, 41, 1119-1154.
 
-(Bob van Tiel, Emiel van Miltenburg, Natalia Zevakhina, and Bart Geurts) Scalar diversity. Journal of Semantics, 33 (1), 107-135.
+**2016**
 
-Processing pragmatic inferences. In Fabienne Salfner and Uli Sauerland (eds.), Pre-proceedings of trends in experimental pragmatics, p. 146-152.
+* Bart Geurts and **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/fivecircles.pdf" target="_blank">When "all the five circles" are four: New exercises in domain restriction</a>. Topoi, 35, 109-122.
 
-2014
-Quantity matters: implicatures, typicality and truth. Ph.D. thesis, Radboud University Nijmegen.
+* **Bob van Tiel**, Emiel van Miltenburg, Natalia Zevakhina, and Bart Geurts. <a href="https://sites.google.com/site/bobvantiel/scalardiversity.pdf" target="_blank">Scalar diversity</a>. Journal of Semantics, 33, 107-135.
 
-Embedded scalars and typicality. Journal of Semantics, 31 (2), 147-177.
+* **Bob van Tiel** <a href="https://sites.google.com/site/bobvantiel/processingpragmatic.pdf" target="_blank">Processing pragmatic inferences</a>. In Fabienne Salfner and Uli Sauerland (Eds.), Pre-proceedings of trends in experimental pragmatics (pp. 146-152).
 
-(Bob van Tiel and Bart Geurts) Truth and typicality in the interpretation of quantifiers. In Urtzi Etxeberria et al. (eds.), Proceedings of Sinn und Bedeutung 18, p. 433-450.
+**2014**
 
-2013
-(Bart Geurts and Bob van Tiel) Embedded scalars. Semantics and Pragmatics, 6 (9), 1-37.
+* **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/quantitymatters.pdf" target="_blank">Quantity matters: Implicatures, typicality and truth</a>. Ph.D. thesis, Radboud University Nijmegen.
 
-2012
-Universal free choice? In: Ana Aguilar Guevara et al. (eds.), Proceedings of Sinn und Bedeutung 16, p. 627-638.
+* **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/scalarstypicality.pdf" target="_blank">Embedded scalars and typicality</a>. Journal of Semantics, 31 (2), 147-177.
 
-(Jacques Jayez and Bob van Tiel) Only only: an experimental window on exclusiveness. In: Maria Aloni et al. (eds.), Proceedings of the 18th Amsterdam Colloquium, p. 391-400.
+* **Bob van Tiel** and Bart Geurts. <a href="https://sites.google.com/site/bobvantiel/truthtypicality.pdf" target="_blank">Truth and typicality in the interpretation of quantifiers</a>. In Urtzi Etxeberria et al. (Eds.), Proceedings of Sinn und Bedeutung 18 (pp. 433-450).
 
-2011
-(Bob van Tiel, Margit Rem, and Anneke Neijt) De historische ontwikkeling van de tussenklank in Nederlandse nominale samenstellingen. Nederlandse Taalkunde 16: 120-140.
+**2013**
 
-2009
-(Bob van Tiel and Anneke Neijt) Zorg voor een leerbare spelling. Levende Talen, 7, 7-11.
+* Bart Geurts and **Bob van Tiel**. <a href="https://semprag.org/index.php/sp/article/view/sp.6.9" target="_blank">Embedded scalars</a>. Semantics and Pragmatics, 6 (9), 1-37.
 
-2007
-(Bob van Tiel and Monique J.A. Lamers) Animacy in verschillende teksttypes. Tabu: Bulletin voor Taalwetenschap, 36 (1/2), 19-38.
+**2012**
+
+* **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/universalfreechoice.pdf" target="_blank">Universal free choice?</a>. In: Ana Aguilar Guevara et al. (Eds.), Proceedings of Sinn und Bedeutung 16 (pp. 627-638).
+
+** Jacques Jayez and **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/onlyonly.pdf" target="_blank">Only only: An experimental window on exclusiveness</a>. In: Maria Aloni et al. (Eds.), Proceedings of the 18th Amsterdam Colloquium (pp. 391-400).
+
+**2011**
+
+* **Bob van Tiel**, Margit Rem, and Anneke Neijt. <a href="https://sites.google.com/site/bobvantiel/tussenklank.pdf" target="_blank">De historische ontwikkeling van de tussenklank in Nederlandse nominale samenstellingen</a>. Nederlandse Taalkunde, 16, 120-140.
+
+**2009**
+
+* **Bob van Tiel** and Anneke Neijt. <a href="https://sites.google.com/site/bobvantiel/leerbare.pdf" target="_blank">Zorg voor een leerbare spelling</a>. Levende Talen, 7, 7-11.
+
+**2007**
+
+* **Bob van Tiel** and Monique J.A. Lamers. <a href="https://sites.google.com/site/bobvantiel/animacy.pdf" target="_blank">Animacy in verschillende teksttypes</a>. Tabu: Bulletin voor Taalwetenschap, 36, 19-38.
