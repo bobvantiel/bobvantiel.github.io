@@ -13,4 +13,4 @@ title: Publications
 
 * **Bob van Tiel** and Elizabeth Pankratz. [Adjectival polarity and the processing of scalar inferences](https://www.glossa-journal.org/articles/10.5334/gjgl.1457/). Glossa, 6, 32.
 
-* Sherry Yong Chen and **Bob van Tiel**. [Every ambiguity isn't syntactic in nature: testing the Rational Speech Act model of scope ambiguity. Proceedings of the Society for Computation in Linguistics](https://scholarworks.umass.edu/scil/vol4/iss1/24/), 4, 24.
+* Sherry Yong Chen and **Bob van Tiel**. [Every ambiguity isn't syntactic in nature: testing the Rational Speech Act model of scope ambiguity](https://scholarworks.umass.edu/scil/vol4/iss1/24/). Proceedings of the Society for Computation in Linguistics, 4, 24.
