@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+classes: wide
 ---
 
 **in preparation**
