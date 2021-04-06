@@ -63,7 +63,7 @@ title: Publications
 
 * **Bob van Tiel**. <a href="http://mitwpl.mit.edu/open/sub16/VanTiel.pdf" target="_blank">Universal free choice?</a>. In: Ana Aguilar Guevara et al. (Eds.), Proceedings of Sinn und Bedeutung 16 (pp. 627-638).
 
-** Jacques Jayez and **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/onlyonly.pdf" target="_blank">Only *only*: An experimental window on exclusiveness</a>. In: Maria Aloni et al. (Eds.), Proceedings of the 18th Amsterdam Colloquium (pp. 391-400).
+* Jacques Jayez and **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/onlyonly.pdf" target="_blank">Only *only*: An experimental window on exclusiveness</a>. In: Maria Aloni et al. (Eds.), Proceedings of the 18th Amsterdam Colloquium (pp. 391-400).
 
 **2011**
 
