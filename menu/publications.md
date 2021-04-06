@@ -53,7 +53,7 @@ title: Publications
 
 * **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/scalarstypicality.pdf" target="_blank">Embedded scalars and typicality</a>. Journal of Semantics, 31 (2), 147-177.
 
-* **Bob van Tiel** and Bart Geurts. <a href="https://sites.google.com/site/bobvantiel/truthtypicality.pdf" target="_blank">Truth and typicality in the interpretation of quantifiers</a>. In Urtzi Etxeberria et al. (Eds.), Proceedings of Sinn und Bedeutung 18 (pp. 433-450).
+* **Bob van Tiel** and Bart Geurts. <a href="https://semanticsarchive.net/sub2013/SeparateArticles/vanTiel&Geurts.pdf" target="_blank">Truth and typicality in the interpretation of quantifiers</a>. In Urtzi Etxeberria et al. (Eds.), Proceedings of Sinn und Bedeutung 18 (pp. 433-450).
 
 **2013**
 
@@ -61,9 +61,9 @@ title: Publications
 
 **2012**
 
-* **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/universalfreechoice.pdf" target="_blank">Universal free choice?</a>. In: Ana Aguilar Guevara et al. (Eds.), Proceedings of Sinn und Bedeutung 16 (pp. 627-638).
+* **Bob van Tiel**. <a href="http://mitwpl.mit.edu/open/sub16/VanTiel.pdf" target="_blank">Universal free choice?</a>. In: Ana Aguilar Guevara et al. (Eds.), Proceedings of Sinn und Bedeutung 16 (pp. 627-638).
 
-** Jacques Jayez and **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/onlyonly.pdf" target="_blank">Only only: An experimental window on exclusiveness</a>. In: Maria Aloni et al. (Eds.), Proceedings of the 18th Amsterdam Colloquium (pp. 391-400).
+** Jacques Jayez and **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/onlyonly.pdf" target="_blank">Only *only*: An experimental window on exclusiveness</a>. In: Maria Aloni et al. (Eds.), Proceedings of the 18th Amsterdam Colloquium (pp. 391-400).
 
 **2011**
 
@@ -71,7 +71,7 @@ title: Publications
 
 **2009**
 
-* **Bob van Tiel** and Anneke Neijt. <a href="https://sites.google.com/site/bobvantiel/leerbare.pdf" target="_blank">Zorg voor een leerbare spelling</a>. Levende Talen, 7, 7-11.
+* **Bob van Tiel** and Anneke Neijt. <a href="https://sites.google.com/site/bobvantiel/leerbarespelling.pdf" target="_blank">Zorg voor een leerbare spelling</a>. Levende Talen, 7, 7-11.
 
 **2007**
 
