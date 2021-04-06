@@ -27,7 +27,7 @@ title: Publications
 
 * Philippine Geelhand, Philippe Bernard, Olivier Klein, **Bob van Tiel**, and Mikhail Kissine) [The role of gender in the perception of autism symptom severity and future behavioral development](https://molecularautism.biomedcentral.com/articles/10.1186/s13229-019-0266-4). Molecular Autism, 10, 1-16.
 
-* **Bob van Tiel**, Elizabeth Pankratz, and Chao Sun. [Scales and scalarity: processing scalar inferences](https://github.com/bobvantiel/bobvantiel.github.io/raw/gh-pages/scalesandscalarity.pdf). Journal of Memory and Language, 105, 93-107.
+* **Bob van Tiel**, Elizabeth Pankratz, and Chao Sun. [Scales and scalarity: processing scalar inferences](https://sites.google.com/site/bobvantiel/scalesandscalarity.pdf). Journal of Memory and Language, 105, 93-107.
 
 **2018**
 
