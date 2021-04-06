@@ -21,13 +21,13 @@ title: Publications
 
 * **Bob van Tiel**. <a href="https://www.ledonline.it/snippets/allegati/snippets37039.pdf" target="_blank">"The case against fuzzy logic revisited" revisited</a>. Snippets, 37, 100-102.
 
-* Bart Geurts, Mikhail Kissine, and **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/pragmaticsasd.pdf" target="_blank">Pragmatic reasoning in autism</a>. In Kinga Morsanyi and Ruth Byrne (Eds.), Thinking, reasoning and decision making in autism. (pp. 113-134). Routledge.
+* Bart Geurts, Mikhail Kissine, and **Bob van Tiel**. <a href="https://drive.google.com/file/d/1xepSsy-4WOAUEGcWPnnpYWLZfguQSo-p/view?usp=sharing" target="_blank">Pragmatic reasoning in autism</a>. In Kinga Morsanyi and Ruth Byrne (Eds.), Thinking, reasoning and decision making in autism. (pp. 113-134). Routledge.
 
 * **Bob van Tiel**, Elizabeth Pankratz, Paul Marty, and Chao Sun. <a href="https://semanticsarchive.net/Archive/Tg3ZGI2M/Vantiel.pdf" target="_blank">Scalar inferences and cognitive load</a>. In M. Teresa Espinal et al. (Eds.), Proceedings of Sinn und Bedeutung 23 (pp. 427-441).
 
 * Philippine Geelhand, Philippe Bernard, Olivier Klein, **Bob van Tiel**, and Mikhail Kissine) <a href="https://molecularautism.biomedcentral.com/articles/10.1186/s13229-019-0266-4" target="_blank">The role of gender in the perception of autism symptom severity and future behavioral development</a>. Molecular Autism, 10, 1-16.
 
-* **Bob van Tiel**, Elizabeth Pankratz, and Chao Sun. <a href="https://sites.google.com/site/bobvantiel/scalesandscalarity.pdf" target="_blank">Scales and scalarity: processing scalar inferences</a>. Journal of Memory and Language, 105, 93-107.
+* **Bob van Tiel**, Elizabeth Pankratz, and Chao Sun. <a href="https://semanticsarchive.net/Archive/zU5OGFjM/scalesandscalarity.pdf" target="_blank">Scales and scalarity: processing scalar inferences</a>. Journal of Memory and Language, 105, 93-107.
 
 **2018**
 
@@ -45,7 +45,7 @@ title: Publications
 
 * **Bob van Tiel**, Emiel van Miltenburg, Natalia Zevakhina, and Bart Geurts. <a href="https://semanticsarchive.net/Archive/GFkOTQ3Y/scalardiversity.pdf" target="_blank">Scalar diversity</a>. Journal of Semantics, 33, 107-135.
 
-* **Bob van Tiel** <a href="https://github.com/bobvantiel/bobvantiel.github.io/raw/gh-pages/menu/processingpragmatic.pdf" target="_blank">Processing pragmatic inferences</a>. In Fabienne Salfner and Uli Sauerland (Eds.), Pre-proceedings of trends in experimental pragmatics (pp. 146-152).
+* **Bob van Tiel** <a href="https://drive.google.com/file/d/1GuBTiOfaR-4NKwunHoa1cyx6A1o-Z7C-/view?usp=sharing" target="_blank">Processing pragmatic inferences</a>. In Fabienne Salfner and Uli Sauerland (Eds.), Pre-proceedings of trends in experimental pragmatics (pp. 146-152).
 
 **2014**
 
@@ -67,12 +67,12 @@ title: Publications
 
 **2011**
 
-* **Bob van Tiel**, Margit Rem, and Anneke Neijt. <a href="https://sites.google.com/site/bobvantiel/tussenklank.pdf" target="_blank">De historische ontwikkeling van de tussenklank in Nederlandse nominale samenstellingen</a>. Nederlandse Taalkunde, 16, 120-140.
+* **Bob van Tiel**, Margit Rem, and Anneke Neijt. <a href="https://drive.google.com/file/d/1sLITlC63aEOV4zJhlg9JjLYymeBdZdW1/view?usp=sharing" target="_blank">De historische ontwikkeling van de tussenklank in Nederlandse nominale samenstellingen</a>. Nederlandse Taalkunde, 16, 120-140.
 
 **2009**
 
-* **Bob van Tiel** and Anneke Neijt. <a href="https://sites.google.com/site/bobvantiel/leerbarespelling.pdf" target="_blank">Zorg voor een leerbare spelling</a>. Levende Talen, 7, 7-11.
+* **Bob van Tiel** and Anneke Neijt. <a href="https://drive.google.com/file/d/19b9_bPnvKRE_RYXVzOxFUfc_Vy2_P3ZV/view?usp=sharing" target="_blank">Zorg voor een leerbare spelling</a>. Levende Talen, 7, 7-11.
 
 **2007**
 
-* **Bob van Tiel** and Monique J.A. Lamers. <a href="https://sites.google.com/site/bobvantiel/animacy.pdf" target="_blank">Animacy in verschillende teksttypes</a>. Tabu: Bulletin voor Taalwetenschap, 36, 19-38.
+* **Bob van Tiel** and Monique J.A. Lamers. <a href="https://drive.google.com/file/d/1DJ5EKHbBu9hsr1HSyCSceENik9-MsMY5/view?usp=sharing" target="_blank">Animacy in verschillende teksttypes</a>. Tabu: Bulletin voor Taalwetenschap, 36, 19-38.
