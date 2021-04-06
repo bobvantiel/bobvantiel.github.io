@@ -9,7 +9,7 @@ title: Publications
 
 **2021**
 
-* **Bob van Tiel**, Michael Franke, and Uli Sauerland. <a href="https://sites.google.com/site/bobvantiel/pnaspaper.pdf" target="_blank">Probabilistic pragmatics explains gradience and focality in natural language quantification</a>. Proceedings of the National Academy of Sciences, 118, e2005453118.
+* **Bob van Tiel**, Michael Franke, and Uli Sauerland. <a href="https://semanticsarchive.net/Archive/TQyMDBkY/paper.pdf" target="_blank">Probabilistic pragmatics explains gradience and focality in natural language quantification</a>. Proceedings of the National Academy of Sciences, 118, e2005453118.
 
 * **Bob van Tiel** and Elizabeth Pankratz. <a href="https://www.glossa-journal.org/articles/10.5334/gjgl.1457/" target="_blank">Adjectival polarity and the processing of scalar inferences</a>. Glossa, 6, 32.
 
@@ -31,27 +31,27 @@ title: Publications
 
 **2018**
 
-* **Bob van Tiel** and Mikhail Kissine. <a href="https://sites.google.com/site/bobvantiel/quantityautism.pdf" target="_blank">Quantity-based reasoning in the broader autism phenotype: A web-based study</a>. Applied Psycholinguistics, 39, 1373-1403.
+* **Bob van Tiel** and Mikhail Kissine. <a href="https://semanticsarchive.net/Archive/GVjMzYzY/paper.pdf" target="_blank">Quantity-based reasoning in the broader autism phenotype: A web-based study</a>. Applied Psycholinguistics, 39, 1373-1403.
 
-* **Bob van Tiel**, Ira Noveck, and Mikhail Kissine. <a href="https://sites.google.com/site/bobvantiel/reasoningwithsome.pdf" target="_blank">Reasoning with 'some'</a>. Journal of Semantics, 35, 757-797.
+* **Bob van Tiel**, Ira Noveck, and Mikhail Kissine. <a href="https://semanticsarchive.net/Archive/jE1NzIwN/reasoningwithsome.pdf" target="_blank">Reasoning with 'some'</a>. Journal of Semantics, 35, 757-797.
 
 **2017**
 
-* **Bob van Tiel** and Walter Schaeken. <a href="https://sites.google.com/site/bobvantiel/processingimplicature.pdf" target="_blank">Processing conversational implicatures: Alternatives and counterfactual reasoning</a>. Cognitive Science, 41, 1119-1154.
+* **Bob van Tiel** and Walter Schaeken. <a href="https://semanticsarchive.net/Archive/zM3M2FiN/processingconversational.pdf" target="_blank">Processing conversational implicatures: Alternatives and counterfactual reasoning</a>. Cognitive Science, 41, 1119-1154.
 
 **2016**
 
-* Bart Geurts and **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/fivecircles.pdf" target="_blank">When "all the five circles" are four: New exercises in domain restriction</a>. Topoi, 35, 109-122.
+* Bart Geurts and **Bob van Tiel**. <a href="https://semanticsarchive.net/Archive/mIxZGE4N/circles.pdf" target="_blank">When "all the five circles" are four: New exercises in domain restriction</a>. Topoi, 35, 109-122.
 
-* **Bob van Tiel**, Emiel van Miltenburg, Natalia Zevakhina, and Bart Geurts. <a href="https://sites.google.com/site/bobvantiel/scalardiversity.pdf" target="_blank">Scalar diversity</a>. Journal of Semantics, 33, 107-135.
+* **Bob van Tiel**, Emiel van Miltenburg, Natalia Zevakhina, and Bart Geurts. <a href="https://semanticsarchive.net/Archive/GFkOTQ3Y/scalardiversity.pdf" target="_blank">Scalar diversity</a>. Journal of Semantics, 33, 107-135.
 
-* **Bob van Tiel** <a href="https://sites.google.com/site/bobvantiel/processingpragmatic.pdf" target="_blank">Processing pragmatic inferences</a>. In Fabienne Salfner and Uli Sauerland (Eds.), Pre-proceedings of trends in experimental pragmatics (pp. 146-152).
+* **Bob van Tiel** <a href="https://drive.google.com/file/d/1GuBTiOfaR-4NKwunHoa1cyx6A1o-Z7C-/view?usp=sharing" target="_blank">Processing pragmatic inferences</a>. In Fabienne Salfner and Uli Sauerland (Eds.), Pre-proceedings of trends in experimental pragmatics (pp. 146-152).
 
 **2014**
 
-* **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/quantitymatters.pdf" target="_blank">Quantity matters: Implicatures, typicality and truth</a>. Ph.D. thesis, Radboud University Nijmegen.
+* **Bob van Tiel**. <a href="https://semanticsarchive.net/Archive/jhmOTFmM/quantitymatters.pdf" target="_blank">Quantity matters: Implicatures, typicality and truth</a>. Ph.D. thesis, Radboud University Nijmegen.
 
-* **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/scalarstypicality.pdf" target="_blank">Embedded scalars and typicality</a>. Journal of Semantics, 31 (2), 147-177.
+* **Bob van Tiel**. <a href="https://semanticsarchive.net/Archive/jQ4Yzg4Z/embeddedscalars.pdf" target="_blank">Embedded scalars and typicality</a>. Journal of Semantics, 31 (2), 147-177.
 
 * **Bob van Tiel** and Bart Geurts. <a href="https://semanticsarchive.net/sub2013/SeparateArticles/vanTiel&Geurts.pdf" target="_blank">Truth and typicality in the interpretation of quantifiers</a>. In Urtzi Etxeberria et al. (Eds.), Proceedings of Sinn und Bedeutung 18 (pp. 433-450).
 
@@ -63,7 +63,7 @@ title: Publications
 
 * **Bob van Tiel**. <a href="http://mitwpl.mit.edu/open/sub16/VanTiel.pdf" target="_blank">Universal free choice?</a>. In: Ana Aguilar Guevara et al. (Eds.), Proceedings of Sinn und Bedeutung 16 (pp. 627-638). MIT Working Papers in Linguistics.
 
-* Jacques Jayez and **Bob van Tiel**. <a href="https://sites.google.com/site/bobvantiel/onlyonly.pdf" target="_blank">Only *only*: An experimental window on exclusiveness</a>. In: Maria Aloni et al. (Eds.), Proceedings of the 18th Amsterdam Colloquium (pp. 391-400). Springer.
+* Jacques Jayez and **Bob van Tiel**. <a href="https://semanticsarchive.net/Archive/GQxYTA0N/onlyonly.pdf" target="_blank">Only *only*: An experimental window on exclusiveness</a>. In: Maria Aloni et al. (Eds.), Proceedings of the 18th Amsterdam Colloquium (pp. 391-400). Springer.
 
 **2011**
 
