@@ -25,7 +25,7 @@ title: Publications
 
 * **Bob van Tiel**, Elizabeth Pankratz, Paul Marty, and Chao Sun. <a href="https://semanticsarchive.net/Archive/Tg3ZGI2M/Vantiel.pdf" target="_blank">Scalar inferences and cognitive load</a>. In M. Teresa Espinal et al. (Eds.), Proceedings of Sinn und Bedeutung 23 (pp. 427-441).
 
-* Philippine Geelhand, Philippe Bernard, Olivier Klein, **Bob van Tiel**, and Mikhail Kissine) <a href="https://molecularautism.biomedcentral.com/articles/10.1186/s13229-019-0266-4" target="_blank">The role of gender in the perception of autism symptom severity and future behavioral development</a>. Molecular Autism, 10, 1-16.
+* Philippine Geelhand, Philippe Bernard, Olivier Klein, **Bob van Tiel**, and Mikhail Kissine. <a href="https://molecularautism.biomedcentral.com/articles/10.1186/s13229-019-0266-4" target="_blank">The role of gender in the perception of autism symptom severity and future behavioral development</a>. Molecular Autism, 10, 1-16.
 
 * **Bob van Tiel**, Elizabeth Pankratz, and Chao Sun. <a href="https://semanticsarchive.net/Archive/zU5OGFjM/scalesandscalarity.pdf" target="_blank">Scales and scalarity: Processing scalar inferences</a>. Journal of Memory and Language, 105, 93-107.
 
