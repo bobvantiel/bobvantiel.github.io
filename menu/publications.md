@@ -3,9 +3,9 @@ layout: page
 title: Publications
 ---
 
-**in preparation**
+**to appear**
 
-* Elizabeth Pankratz and **Bob van Tiel**. The role of relevance for scalar diversity: A usage-based approach.
+* Elizabeth Pankratz and **Bob van Tiel**. The role of relevance for scalar diversity: A usage-based approach. Language and Cognition.
 
 **2021**
 
