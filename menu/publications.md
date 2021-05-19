@@ -9,7 +9,7 @@ title: Publications
 
 **2021**
 
-* **Bob van Tiel**, Michael Franke, and Uli Sauerland. <a href="https://semanticsarchive.net/Archive/TQyMDBkY/paper.pdf" target="_blank">Probabilistic pragmatics explains gradience and focality in natural language quantification</a>. Proceedings of the National Academy of Sciences, 118, e2005453118.
+* **Bob van Tiel**, Michael Franke, and Uli Sauerland. <a href="https://bobvantiel.github.io/docs/ProbabilisticPragmatics.pdf" target="_blank">Probabilistic pragmatics explains gradience and focality in natural language quantification</a>. Proceedings of the National Academy of Sciences, 118, e2005453118.
 
 * **Bob van Tiel** and Elizabeth Pankratz. <a href="https://www.glossa-journal.org/articles/10.5334/gjgl.1457/" target="_blank">Adjectival polarity and the processing of scalar inferences</a>. Glossa, 6, 32.
 
@@ -27,7 +27,7 @@ title: Publications
 
 * Philippine Geelhand, Philippe Bernard, Olivier Klein, **Bob van Tiel**, and Mikhail Kissine. <a href="https://molecularautism.biomedcentral.com/articles/10.1186/s13229-019-0266-4" target="_blank">The role of gender in the perception of autism symptom severity and future behavioral development</a>. Molecular Autism, 10, 1-16.
 
-* **Bob van Tiel**, Elizabeth Pankratz, and Chao Sun. <a href="https://semanticsarchive.net/Archive/zU5OGFjM/scalesandscalarity.pdf" target="_blank">Scales and scalarity: Processing scalar inferences</a>. Journal of Memory and Language, 105, 93-107.
+* **Bob van Tiel**, Elizabeth Pankratz, and Chao Sun. <a href="https://bobvantiel.github.io/docs/ScalesScalarity.pdf" target="_blank">Scales and scalarity: Processing scalar inferences</a>. Journal of Memory and Language, 105, 93-107.
 
 **2018**
 
