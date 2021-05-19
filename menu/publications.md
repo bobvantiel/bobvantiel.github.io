@@ -21,7 +21,7 @@ title: Publications
 
 * **Bob van Tiel**. <a href="https://www.ledonline.it/snippets/allegati/snippets37039.pdf" target="_blank">"The case against fuzzy logic revisited" revisited</a>. Snippets, 37, 100-102.
 
-* Bart Geurts, Mikhail Kissine, and **Bob van Tiel**. <a href="https://drive.google.com/file/d/1xepSsy-4WOAUEGcWPnnpYWLZfguQSo-p/view?usp=sharing" target="_blank">Pragmatic reasoning in autism</a>. In Kinga Morsanyi and Ruth Byrne (Eds.), Thinking, reasoning and decision making in autism. (pp. 113-134). Routledge. <a href="bobvantiel.github.io/docs/PragmaticReasoningASD.pdf" target="_blank">PDF.</a>
+* Bart Geurts, Mikhail Kissine, and **Bob van Tiel**. <a href="https://drive.google.com/file/d/1xepSsy-4WOAUEGcWPnnpYWLZfguQSo-p/view?usp=sharing" target="_blank">Pragmatic reasoning in autism</a>. In Kinga Morsanyi and Ruth Byrne (Eds.), Thinking, reasoning and decision making in autism. (pp. 113-134). Routledge. <a href="https://bobvantiel.github.io/docs/PragmaticReasoningASD.pdf" target="_blank">PDF.</a>
 
 * **Bob van Tiel**, Elizabeth Pankratz, Paul Marty, and Chao Sun. <a href="https://semanticsarchive.net/Archive/Tg3ZGI2M/Vantiel.pdf" target="_blank">Scalar inferences and cognitive load</a>. In M. Teresa Espinal et al. (Eds.), Proceedings of Sinn und Bedeutung 23 (pp. 427-441).
 
