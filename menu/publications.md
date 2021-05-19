@@ -67,7 +67,7 @@ title: Publications
 
 **2011**
 
-* **Bob van Tiel**, Margit Rem, and Anneke Neijt. <a href="https://drive.google.com/file/d/1sLITlC63aEOV4zJhlg9JjLYymeBdZdW1/view?usp=sharing" target="_blank">De historische ontwikkeling van de tussenklank in Nederlandse nominale samenstellingen</a>. Nederlandse Taalkunde, 16, 120-140.
+* **Bob van Tiel**, Margit Rem, and Anneke Neijt. <a href="https://bobvantiel.github.io/docs/Tussenklank.pdf" target="_blank">De historische ontwikkeling van de tussenklank in Nederlandse nominale samenstellingen</a>. Nederlandse Taalkunde, 16, 120-140.
 
 **2009**
 
