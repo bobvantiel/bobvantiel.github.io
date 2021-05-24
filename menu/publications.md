@@ -9,7 +9,7 @@ title: Publications
 
 **2021**
 
-* **Bob van Tiel**, Michael Franke, and Uli Sauerland. <a href="https://bobvantiel.github.io/docs/ProbabilisticPragmatics.pdf" target="_blank">Probabilistic pragmatics explains gradience and focality in natural language quantification</a>. Proceedings of the National Academy of Sciences, 118, e2005453118.
+* **Bob van Tiel**, Michael Franke, and Uli Sauerland. <a href="https://bobvantiel.github.io/docs/ProbabilisticPragmatics.pdf" target="_blank">Probabilistic pragmatics explains gradience and focality in natural language quantification</a>. Proceedings of the National Academy of Sciences, 118, e2005453118. (<a href="https://vimeo.com/516752288" target="_blank">Video abstract</a>)
 
 * **Bob van Tiel** and Elizabeth Pankratz. <a href="https://www.glossa-journal.org/articles/10.5334/gjgl.1457/" target="_blank">Adjectival polarity and the processing of scalar inferences</a>. Glossa, 6, 32.
 
