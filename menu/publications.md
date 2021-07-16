@@ -47,7 +47,7 @@ title: Publications
 
 * **Bob van Tiel**, Emiel van Miltenburg, Natalia Zevakhina, and Bart Geurts. <a href="https://bobvantiel.github.io/docs/ScalarDiversity.pdf" target="_blank">Scalar diversity</a>. Journal of Semantics, 33, 107-135.
 
-* **Bob van Tiel** <a href="https://bobvantiel.github.io/docs/ProcessingInferences.pdf" target="_blank">Processing pragmatic inferences</a>. In Fabienne Salfner and Uli Sauerland (Eds.), Pre-proceedings of trends in experimental pragmatics (pp. 146-152).
+* **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ProcessingInferences.pdf" target="_blank">Processing pragmatic inferences</a>. In Fabienne Salfner and Uli Sauerland (Eds.), Pre-proceedings of trends in experimental pragmatics (pp. 146-152).
 
 **2014**
 
