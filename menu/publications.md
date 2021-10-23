@@ -3,11 +3,9 @@ layout: page
 title: Publications
 ---
 
-**to appear**
-
-* Ye Tian, **Bob van Tiel**, Élise Clin, & Richard Breheny. Representing polar questions. Journal of Psycholinguistic Research.
-
 **2021**
+
+* Ye Tian, **Bob van Tiel**, Élise Clin, & Richard Breheny. <a href="https://link.springer.com/article/10.1007/s10936-021-09814-y" target="_blank">Representing polar questions</a>. Journal of Psycholinguistic Research.
 
 * Elizabeth Pankratz and **Bob van Tiel**. <a href="https://www.doi.org/10.1017/langcog.2021.13" target="_blank">The role of relevance for scalar diversity: A usage-based approach</a>. Language and Cognition.
 
