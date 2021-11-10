@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-<figure style="float: left; margin-left: -5px; margin-right: 25px; max-width: 30%; min-width: 100px; height: auto;"><img src="newphoto.jpg"><figcaption style="font-size: small; color: grey;">© Ted van Leeuwen</figcaption></figure>
+<figure style="float: left; margin-left: -5px; margin-right: 25px; max-width: 30%; min-width: 100px; height: auto;"><img src="newphotocropped.jpg"><figcaption style="font-size: small; color: grey;">© Ted van Leeuwen</figcaption></figure>
 
 I am an assistent professor in philosophy at the Radboud University Nijmegen. I am interested in the semantics and pragmatics of natural language. 
 
