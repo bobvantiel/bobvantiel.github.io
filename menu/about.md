@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img style="float: left; margin-right: 25px; max-width: 100%; min-width: 100px; height: auto;" src="bob-foto.jpg">
+<figure><img style="float: left; margin-right: 25px; max-width: 100%; min-width: 100px; height: auto;" src="newphoto.jpg"><figcaption>© Ted van Leeuwen<\figcaption></figure>
 
 I am a postdoctoral researcher interested in the semantics and pragmatics of natural language. 
 
