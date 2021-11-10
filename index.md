@@ -5,7 +5,7 @@ title: Home
 
 <figure style="float: left; margin-left: -5px; margin-right: 25px; max-width: 30%; min-width: 100px; height: auto;"><img src="newphoto.jpg"><figcaption style="font-size: small; color: grey;">© Ted van Leeuwen</figcaption></figure>
 
-I am a postdoctoral researcher interested in the semantics and pragmatics of natural language. 
+I am an assistent professor in philosophy at the Radboud University Nijmegen. I am interested in the semantics and pragmatics of natural language. 
 
 I currently work with <a href="https://sites.google.com/site/aemn1011/home" target="_blank">Andrea E. Martin</a>, <a href="http://www.markblokpoel.com/" target="_blank">Mark Blokpoel</a>, and <a href="https://irisvanrooijcogsci.com/" target="_blank">Iris van Rooij</a> in the <a href="https://www.languageininteraction.nl/" target="_blank">Language in Interaction</a> project at the Donders Institute of Brain, Cognition and Behaviour.
 
