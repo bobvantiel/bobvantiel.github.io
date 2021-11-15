@@ -23,7 +23,7 @@ title: Publications
 
 * Bart Geurts, Mikhail Kissine, and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/PragmaticReasoningASD.pdf" target="_blank">Pragmatic reasoning in autism</a>. In Kinga Morsanyi and Ruth Byrne (Eds.), Thinking, reasoning and decision making in autism. (pp. 113-134). Routledge.
 
-* **Bob van Tiel**, Elizabeth Pankratz, Paul Marty, and Chao Sun. <a href="https://semanticsarchive.net/Archive/Tg3ZGI2M/Vantiel.pdf" target="_blank">Scalar inferences and cognitive load</a>. In M. Teresa Espinal et al. (Eds.), Proceedings of Sinn und Bedeutung 23 (pp. 427-441).
+* **Bob van Tiel**, Elizabeth Pankratz, Paul Marty, and Chao Sun. <a href="https://semanticsarchive.net/Archive/Tg3ZGI2M/Vantiel.pdf" target="_blank">Scalar inferences and cognitive load</a>. In M. Teresa Espinal, Elena Castroviejo, Manuel Leonetti, Louise McNally, and Cristina Real-Puigdollers (Eds.), Proceedings of Sinn und Bedeutung 23 (pp. 427-441).
 
 * Philippine Geelhand, Philippe Bernard, Olivier Klein, **Bob van Tiel**, and Mikhail Kissine. <a href="https://molecularautism.biomedcentral.com/articles/10.1186/s13229-019-0266-4" target="_blank">The role of gender in the perception of autism symptom severity and future behavioral development</a>. Molecular Autism, 10, 1-16.
 
@@ -61,9 +61,9 @@ title: Publications
 
 **2012**
 
-* **Bob van Tiel**. <a href="http://mitwpl.mit.edu/open/sub16/VanTiel.pdf" target="_blank">Universal free choice?</a> In: Ana Aguilar Guevara et al. (Eds.), Proceedings of Sinn und Bedeutung 16 (pp. 627-638). MIT Working Papers in Linguistics.
+* **Bob van Tiel**. <a href="http://mitwpl.mit.edu/open/sub16/VanTiel.pdf" target="_blank">Universal free choice?</a> In: Ana Aguilar Guevara, Anna Chernilovskaya, and Rick Nouwen (Eds.), Proceedings of Sinn und Bedeutung 16 (pp. 627-638). MIT Working Papers in Linguistics.
 
-* Jacques Jayez and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/OnlyOnly.pdf" target="_blank">Only *only*: An experimental window on exclusiveness</a>. In: Maria Aloni et al. (Eds.), Proceedings of the 18th Amsterdam Colloquium (pp. 391-400). Springer.
+* Jacques Jayez and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/OnlyOnly.pdf" target="_blank">Only *only*: An experimental window on exclusiveness</a>. In: Maria Aloni, Vadim Kimmelman, Floris Roelofsen, Galit W. Sassoon, Katrin Schulz, and Matthijs Westera (Eds.), Proceedings of the 18th Amsterdam Colloquium (pp. 391-400). Springer.
 
 **2011**
 
