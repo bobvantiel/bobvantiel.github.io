@@ -53,7 +53,7 @@ title: Publications
 
 * **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ScalarsTypicality.pdf" target="_blank">Embedded scalars and typicality</a>. Journal of Semantics, 31 (2), 147-177.
 
-* **Bob van Tiel** and Bart Geurts. <a href="https://semanticsarchive.net/sub2013/SeparateArticles/vanTiel&Geurts.pdf" target="_blank">Truth and typicality in the interpretation of quantifiers</a>. In Urtzi Etxeberria et al. (Eds.), Proceedings of Sinn und Bedeutung 18 (pp. 433-450).
+* **Bob van Tiel** and Bart Geurts. <a href="https://semanticsarchive.net/sub2013/SeparateArticles/vanTiel&Geurts.pdf" target="_blank">Truth and typicality in the interpretation of quantifiers</a>. In Urtzi Etxeberria, Anamaria Fălăuș, Aritz Irurtzun, Bryan Leferman (Eds.), Proceedings of Sinn und Bedeutung 18 (pp. 433-450).
 
 **2013**
 
