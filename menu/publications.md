@@ -51,13 +51,13 @@ title: Publications
 
 * **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/QuantityMatters.pdf" target="_blank">Quantity matters: Implicatures, typicality and truth</a>. Ph.D. thesis, Radboud University Nijmegen.
 
-* **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ScalarsTypicality.pdf" target="_blank">Embedded scalars and typicality</a>. Journal of Semantics, 31 (2), 147-177.
+* **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ScalarsTypicality.pdf" target="_blank">Embedded scalars and typicality</a>. Journal of Semantics, 31, 147-177.
 
 * **Bob van Tiel** and Bart Geurts. <a href="https://semanticsarchive.net/sub2013/SeparateArticles/vanTiel&Geurts.pdf" target="_blank">Truth and typicality in the interpretation of quantifiers</a>. In Urtzi Etxeberria, Anamaria Fălăuș, Aritz Irurtzun, Bryan Leferman (Eds.), Proceedings of Sinn und Bedeutung 18 (pp. 433-450).
 
 **2013**
 
-* Bart Geurts and **Bob van Tiel**. <a href="https://semprag.org/index.php/sp/article/view/sp.6.9" target="_blank">Embedded scalars</a>. Semantics and Pragmatics, 6 (9), 1-37.
+* Bart Geurts and **Bob van Tiel**. <a href="https://semprag.org/index.php/sp/article/view/sp.6.9" target="_blank">Embedded scalars</a>. Semantics and Pragmatics, 6, 1-37.
 
 **2012**
 
