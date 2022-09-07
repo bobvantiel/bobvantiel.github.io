@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+**to appear**
+
+* **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Convention.pdf" target="_blank">Conventions, coordination, and arbitrariness. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics. Oxford University Press.
+
 **2021**
 
 * Ye Tian, **Bob van Tiel**, Élise Clin, & Richard Breheny. <a href="https://link.springer.com/article/10.1007/s10936-021-09814-y" target="_blank">Representing polar questions</a>. Journal of Psycholinguistic Research, 50, 1535-1555.
