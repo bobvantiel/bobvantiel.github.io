@@ -5,7 +5,7 @@ title: Publications
 
 **to appear**
 
-* **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Convention.pdf" target="_blank">Conventions, coordination, and arbitrariness. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics. Oxford University Press.
+* **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Convention.pdf" target="_blank">Conventions, coordination, and arbitrariness</a>. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics. Oxford University Press.
 
 **2021**
 
