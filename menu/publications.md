@@ -7,9 +7,11 @@ title: Publications
 
 * **Bob van Tiel**, Michael Franke, and Uli Sauerland. Meaning and use in the expression of estimative probability. Open Mind.
 
-* Ahmed Khorsheed, Jessica Price, and **Bob van Tiel**. <a href="https://www.frontiersin.org/articles/10.3389/fcomm.2022.990044/full" target="_blank">Sources of cognitive cost in scalar implicature processing: A review</a>. Frontiers in Communication.
-
 * **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Conventions.pdf" target="_blank">Conventions, coordination, and arbitrariness</a>. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics. Oxford University Press.
+
+**2022**
+
+* Ahmed Khorsheed, Jessica Price, and **Bob van Tiel**. <a href="https://www.frontiersin.org/articles/10.3389/fcomm.2022.990044/full" target="_blank">Sources of cognitive cost in scalar implicature processing: A review</a>. Frontiers in Communication.
 
 **2021**
 
