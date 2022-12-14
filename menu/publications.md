@@ -5,6 +5,8 @@ title: Publications
 
 **to appear**
 
+* Polina Tsvilodub, **Bob van Tiel**, and Michael Franke. <a href="https://bobvantiel.github.io/docs/RelevanceCompetencePrior.pdf" target="_blank">The role of relevance, competence, and priors for scalar inferences</a>. In Proceedings of Experiments in Linguistic Meaning (ELM) 2.
+
 * **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Conventions.pdf" target="_blank">Conventions, coordination, and arbitrariness</a>. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics. Oxford University Press.
 
 **2022**
