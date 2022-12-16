@@ -5,13 +5,13 @@ title: Publications
 
 **to appear**
 
-* Corien Bary, Leopold Hess, and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ExpressivesShift.pdf" target="_blank">Expressives do shift, but not on their own</a>. In: Marco Degano, Tom Roberts, Giorgio Sbardolini, and Marieke Schouwstra (Eds.), Proceedings of the 23rd Amsterdam Colloquium (pp. 31-37).
-
 * Polina Tsvilodub, **Bob van Tiel**, and Michael Franke. <a href="https://bobvantiel.github.io/docs/RelevanceCompetencePrior.pdf" target="_blank">The role of relevance, competence, and priors for scalar inferences</a>. In: Proceedings of Experiments in Linguistic Meaning (ELM) 2.
 
 * **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Conventions.pdf" target="_blank">Conventions, coordination, and arbitrariness</a>. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics. Oxford University Press.
 
 **2022**
+
+* Corien Bary, Leopold Hess, and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ExpressivesShift.pdf" target="_blank">Expressives do shift, but not on their own</a>. In: Marco Degano, Tom Roberts, Giorgio Sbardolini, and Marieke Schouwstra (Eds.), Proceedings of the 23rd Amsterdam Colloquium (pp. 31-37).
 
 * **Bob van Tiel**, Uli Sauerland, and Michael Franke. <a href="https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00066/113616/Meaning-and-Use-in-the-Expression-of-Estimative" target="_blank">Meaning and use in the expression of estimative probability</a>. Open Mind, 6, 250-263.
 
