@@ -5,11 +5,11 @@ title: Publications
 
 **to appear**
 
-* Polina Tsvilodub, **Bob van Tiel**, and Michael Franke. <a href="https://bobvantiel.github.io/docs/RelevanceCompetencePrior.pdf" target="_blank">The role of relevance, competence, and priors for scalar inferences</a>. In: Proceedings of Experiments in Linguistic Meaning (ELM) 2.
-
 * **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Conventions.pdf" target="_blank">Conventions, coordination, and arbitrariness</a>. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics. Oxford University Press.
 
 **2022**
+
+* Polina Tsvilodub, **Bob van Tiel**, and Michael Franke. <a href="https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5375" target="_blank">The role of relevance, competence, and priors for scalar inferences</a>. In: Tyler Knowlton, Florian Schwarz, and Anna Papafragou (Eds.), Proceedings of Experiments in Linguistic Meaning (ELM) 2 (pp. 288-298).
 
 * Corien Bary, Leopold Hess, and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ExpressivesShift.pdf" target="_blank">Expressives do shift, but not on their own</a>. In: Marco Degano, Tom Roberts, Giorgio Sbardolini, and Marieke Schouwstra (Eds.), Proceedings of the 23rd Amsterdam Colloquium (pp. 31-37).
 
