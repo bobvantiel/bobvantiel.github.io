@@ -24,9 +24,8 @@ body {
   line-height: 1.75rem;
 }
 
-@media (max-width: 30em) {
+@media (max-width: 30em; background-color: #808080;) {
   body {
-    background-color: #808080;
     font-size: 14px;
     line-height: 1.5rem;
   }
