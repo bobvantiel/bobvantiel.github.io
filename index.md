@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
 ---
 
 <figure style="float: left; margin-left: -5px; margin-top: -5px; margin-right: 25px; max-width: 30%; min-width: 100px; height: auto;"><img src="newphotocropped.jpg"><figcaption style="font-size: small; color: grey;">Photo by Ted van Leeuwen</figcaption></figure>
