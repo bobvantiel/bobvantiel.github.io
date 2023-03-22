@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: default
 title: Contact
 ---
 
-bobvantiel at gmail dot com
+You can contact me at bobvantiel at gmail dot com
