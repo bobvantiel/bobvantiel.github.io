@@ -5,11 +5,11 @@ title: Publications
 
 **to appear**
 
-* Leopold Hess, Corien Bary, and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/CommitmentsDeLingua.pdf" target="_blank">Commitments de lingua & assertoric commitments: The case of expressives</a>. Proceedings of Semantics and Linguistic Theory, 33.
-
 * **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Conventions.pdf" target="_blank">Conventions, coordination, and arbitrariness</a>. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics. Oxford University Press.
 
 **2023**
+
+* Leopold Hess, Corien Bary, and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/CommitmentsDeLingua.pdf" target="_blank">Commitments de lingua and assertoric commitments: The case of expressives</a>. Proceedings of Semantics and Linguistic Theory, 33, 379-398.
 
 * Polina Tsvilodub, **Bob van Tiel**, and Michael Franke. <a href="https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5375" target="_blank">The role of relevance, competence, and priors for scalar inferences</a>. In: Tyler Knowlton, Florian Schwarz, and Anna Papafragou (Eds.), Proceedings of Experiments in Linguistic Meaning (ELM) 2 (pp. 288-298).
 
