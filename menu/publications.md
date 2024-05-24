@@ -5,6 +5,8 @@ title: Publications
 
 **to appear**
 
+* Paul Marty, Jacopo Romoli, Yasutada Sudo, **Bob van Tiel**, and Richard Breheny. Scalar inferencing, polarity and cognitive load. Glossa Psycholinguistics.
+
 * **Bob van Tiel**, Fausto Carcassi, and Xiaochen Y. Zheng. <a href="https://bobvantiel.github.io/docs/WordOrderCogSci.pdf" target="_blank">Word order and the learnability of artificial languages</a>. Proceedings of the annual meeting of the Cognitive Science Society.
 
 * **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Conventions.pdf" target="_blank">Conventions, coordination, and arbitrariness</a>. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics. Oxford University Press.
