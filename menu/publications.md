@@ -5,6 +5,8 @@ title: Publications
 
 **to appear**
 
+* Ahmed Khorsheed and **Bob van Tiel**. Why second-language speakers sometimes but not always derive scalar inferences like first-language speakers: Effects of task demands. Language Acquisition.
+
 * Paul Marty, Jacopo Romoli, Yasutada Sudo, **Bob van Tiel**, and Richard Breheny. Scalar inferencing, polarity and cognitive load. Glossa Psycholinguistics.
 
 * **Bob van Tiel**, Fausto Carcassi, and Xiaochen Y. Zheng. <a href="https://escholarship.org/uc/item/8176w1v1" target="_blank">Word order and the learnability of artificial languages</a>. Proceedings of the annual meeting of the Cognitive Science Society.
