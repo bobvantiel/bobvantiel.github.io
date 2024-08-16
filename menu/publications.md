@@ -5,11 +5,11 @@ title: Publications
 
 **to appear**
 
-* Ahmed Khorsheed and **Bob van Tiel**. Why second-language speakers sometimes but not always derive scalar inferences like first-language speakers: Effects of task demands. Language Acquisition.
-
 * **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Conventions.pdf" target="_blank">Conventions, coordination, and arbitrariness</a>. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics. Oxford University Press.
 
 **2024**
+
+* Ahmed Khorsheed and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/L2TaskDemands.pdf" target="_blank">Why second-language speakers sometimes but not always derive scalar inferences like first-language speakers: Effects of task demands</a>. Language Acquisition.
 
 * Paul Marty, Jacopo Romoli, Yasutada Sudo, **Bob van Tiel**, and Richard Breheny. <a href="https://escholarship.org/uc/item/1x64s089" target="_blank">Scalar inferencing, polarity and cognitive load</a>. Glossa Psycholinguistics, 3, 15.
 
