@@ -3,6 +3,10 @@ layout: default
 title: Publications
 ---
 
+**in preparation**
+
+* Chao Sun, Elizabeth Pankratz, and **Bob van Tiel**. <a href="http://dx.doi.org/10.2139/ssrn.4980524" target="_blank">Polarity and the online processing of scalar inferences.</a>
+
 **to appear**
 
 * **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Conventions.pdf" target="_blank">Conventions, coordination, and arbitrariness</a>. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics. Oxford University Press.
