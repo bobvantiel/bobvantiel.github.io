@@ -5,7 +5,7 @@ title: Publications
 
 **in preparation**
 
-* Chao Sun, Elizabeth Pankratz, and **Bob van Tiel**. <a href="http://dx.doi.org/10.2139/ssrn.4980524" target="_blank">Polarity and the online processing of scalar inferences.</a>
+* Chao Sun, Elizabeth Pankratz, and **Bob van Tiel**. <a href="http://dx.doi.org/10.2139/ssrn.4980524" target="_blank">Polarity and the online processing of scalar inferences</a>.
 
 **to appear**
 
