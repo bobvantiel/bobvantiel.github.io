@@ -11,9 +11,9 @@ title: Publications
 
 * Harriet Yates, Corien Bary, Peter de Swart, and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/fEMG-SuB.pdf" target="_blank">fEMG as a window into conversational commitments</a>. Proceedings of Sinn und Bedeutung 29.
 
-* **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Conventions.pdf" target="_blank">Conventions, coordination, and arbitrariness</a>. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics. Oxford University Press.
-
 **2025**
+
+* **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Conventions.pdf" target="_blank">Conventions, coordination, and arbitrariness</a>. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics. Oxford University Press.
 
 * Greta Mazzaggio, Federica Longo, Penka Stateva, and **Bob van Tiel**. <a href="https://doi.org/10.1017/S1366728925000392" target="_blank">Scalar diversity and second-language processing of scalar inferences: A cross-linguistic analysis</a>. Bilingualism: Language and Cognition.
 
