@@ -11,7 +11,7 @@ title: Publications
 
 **2025**
 
-* Harriet Yates, Corien Bary, Peter de Swart, and **Bob van Tiel**. <a href="	https://doi.org/10.18148/sub/2024.v29.1308" target="_blank">fEMG as a window into conversational commitments</a>. In Federica Longo and Daniele Panizza (Eds.), Proceedings of Sinn und Bedeutung 29 (pp. 1765-1783).
+* Harriet Yates, Corien Bary, Peter de Swart, and **Bob van Tiel**. <a href="https://doi.org/10.18148/sub/2024.v29.1308" target="_blank">fEMG as a window into conversational commitments</a>. In Federica Longo and Daniele Panizza (Eds.), Proceedings of Sinn und Bedeutung 29 (pp. 1765-1783).
 
 * **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Conventions.pdf" target="_blank">Conventions, coordination, and arbitrariness</a>. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics (pp. 179-195). Oxford University Press.
 
