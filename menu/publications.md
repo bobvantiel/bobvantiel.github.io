@@ -9,7 +9,7 @@ title: Publications
 
 **to appear**
 
-* **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ApproachesV1.pdf" target="_blank">Approaches to scalar inferences</a>. In Antonio Fábregas, Laia Mayol, Clàudia Pons-Mol, and Yanina Prystauka (Eds.). The Cambridge handbook of linguistic interfaces.
+* **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ApproachesV1.pdf" target="_blank">Approaches to scalar inferences</a>. In Antonio Fábregas, Laia Mayol, Clàudia Pons-Mol, and Yanina Prystauka (Eds.), The Cambridge handbook of linguistic interfaces.
 
 **2025**
 
