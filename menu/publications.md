@@ -5,9 +5,11 @@ title: Publications
 
 **in preparation**
 
-* **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ApproachesV1.pdf" target="_blank">Approaches to scalar inferences</a>.
-
 * Chao Sun, Elizabeth Pankratz, and **Bob van Tiel**. <a href="http://dx.doi.org/10.2139/ssrn.4980524" target="_blank">Polarity and the online processing of scalar inferences</a>.
+
+**to appear**
+
+* **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ApproachesV1.pdf" target="_blank">Approaches to scalar inferences</a>. In Antonio Fábregas, Laia Mayol, Clàudia Pons-Mol, and Yanina Prystauka (Eds.). The Cambridge handbook of linguistic interfaces.
 
 **2025**
 
