@@ -11,7 +11,7 @@ title: Publications
 
 **to appear**
 
-* Federica Longo, Daniele Panizza, Greta Mazzaggio, and **Bob van Tiel**. The (in)felicity of a dog or a reindeer. On the interpretation and processing of ignorance and scalar inferences triggered by disjunction. Proceedings of Sinn und Bedeutung 30.
+* Federica Longo, Daniele Panizza, Greta Mazzaggio, and **Bob van Tiel**. The (in)felicity of <i>a dog or a reindeer</i>: On the interpretation and processing of ignorance and scalar inferences triggered by disjunction. Proceedings of Sinn und Bedeutung 30.
 
 * **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ApproachesV1.pdf" target="_blank">Approaches to scalar inferences</a>. In Antonio Fábregas, Laia Mayol, Clàudia Pons-Mol, and Yanina Prystauka (Eds.), The Cambridge handbook of linguistic interfaces. Cambridge University Press.
 
