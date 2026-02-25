@@ -1,4 +1,8 @@
-/* Light defaults (fallback) */
+/* ========================================
+   THEME VARIABLES
+======================================== */
+
+/* Default = Light */
 :root {
   --bg: #ffffff;
   --text: #111827;
@@ -10,9 +14,9 @@
   --code-bg: #f3f4f6;
 }
 
-/* Dark mode palette */
+/* Auto Dark Mode (system preference) */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme]) {
     --bg: #0b0f19;
     --text: #e5e7eb;
     --muted: #a1a1aa;
@@ -24,61 +28,145 @@
   }
 }
 
-/* Apply to typical Lagrange selectors */
+/* Manual Override: Dark */
+:root[data-theme="dark"] {
+  --bg: #0b0f19;
+  --text: #e5e7eb;
+  --muted: #a1a1aa;
+  --link: #60a5fa;
+  --link-hover: #93c5fd;
+  --card: #111827;
+  --border: #1f2937;
+  --code-bg: #0f172a;
+}
+
+/* Manual Override: Light */
+:root[data-theme="light"] {
+  --bg: #ffffff;
+  --text: #111827;
+  --muted: #6b7280;
+  --link: #2563eb;
+  --link-hover: #1d4ed8;
+  --card: #f3f4f6;
+  --border: #e5e7eb;
+  --code-bg: #f3f4f6;
+}
+
+/* ========================================
+   GLOBAL STYLING
+======================================== */
+
 html, body {
   background: var(--bg);
   color: var(--text);
+  transition: background 0.3s ease, color 0.3s ease;
 }
 
 a {
   color: var(--link);
+  transition: color 0.2s ease;
 }
+
 a:hover {
   color: var(--link-hover);
 }
 
-hr, .divider, .post-divider {
-  border-color: var(--border);
-}
+/* ========================================
+   LAYOUT ELEMENTS (Lagrange-safe)
+======================================== */
 
-/* Common containers */
-.container, .content, .post, .post-content, .page-content, .home {
+.container,
+.content,
+.post,
+.post-content,
+.page-content,
+.home {
   background: transparent;
 }
 
-/* Cards / blocks (adjust selectors to match your theme) */
-.card, .post-card, .archive-item, .post-preview {
-  background: var(--card);
+hr {
   border-color: var(--border);
 }
 
-/* Text nuances */
-p, li, blockquote, .post-meta, .date, .subtitle {
+/* ========================================
+   TEXT & META
+======================================== */
+
+p, li, span, strong, em {
   color: var(--text);
 }
-.muted, .secondary, .post-meta {
+
+.post-meta,
+.date,
+.subtitle,
+small {
   color: var(--muted);
 }
 
-/* Code blocks */
-pre, code {
-  background: var(--code-bg);
-  color: var(--text);
-}
-pre {
+/* ========================================
+   BLOCKS & CARDS
+======================================== */
+
+.post-card,
+.archive-item,
+.card {
+  background: var(--card);
   border: 1px solid var(--border);
 }
 
-/* Blockquotes */
+/* ========================================
+   BLOCKQUOTES
+======================================== */
+
 blockquote {
   border-left: 4px solid var(--border);
   color: var(--muted);
 }
 
-/* Tables */
-table {
-  border-color: var(--border);
+/* ========================================
+   CODE
+======================================== */
+
+pre, code {
+  background: var(--code-bg);
+  color: var(--text);
 }
+
+pre {
+  padding: 1rem;
+  overflow-x: auto;
+  border: 1px solid var(--border);
+}
+
+/* ========================================
+   TABLES
+======================================== */
+
+table {
+  border-collapse: collapse;
+  border: 1px solid var(--border);
+}
+
 th, td {
-  border-color: var(--border);
+  border: 1px solid var(--border);
+  padding: 8px;
+}
+
+/* ========================================
+   TOGGLE BUTTON
+======================================== */
+
+#theme-toggle {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background 0.2s ease;
+}
+
+#theme-toggle:hover {
+  background: var(--card);
 }
