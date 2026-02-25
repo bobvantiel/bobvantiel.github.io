@@ -1,117 +1,77 @@
 /* ========================================
-   THEME VARIABLES
-======================================== */
-
-/* Default = Light */
-:root {
-  --bg: #ffffff;
-  --text: #111827;
-  --muted: #6b7280;
-  --link: #2563eb;
-  --link-hover: #1d4ed8;
-  --card: #f3f4f6;
-  --border: #e5e7eb;
-  --code-bg: #f3f4f6;
-}
-
-/* Auto Dark Mode (system preference) */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme]) {
-    --bg: #0b0f19;
-    --text: #e5e7eb;
-    --muted: #a1a1aa;
-    --link: #60a5fa;
-    --link-hover: #93c5fd;
-    --card: #111827;
-    --border: #1f2937;
-    --code-bg: #0f172a;
-  }
-}
-
-/* Manual Override: Dark */
-:root[data-theme="dark"] {
-  --bg: #0b0f19;
-  --text: #e5e7eb;
-  --muted: #a1a1aa;
-  --link: #60a5fa;
-  --link-hover: #93c5fd;
-  --card: #111827;
-  --border: #1f2937;
-  --code-bg: #0f172a;
-}
-
-/* Manual Override: Light */
-:root[data-theme="light"] {
-  --bg: #ffffff;
-  --text: #111827;
-  --muted: #6b7280;
-  --link: #2563eb;
-  --link-hover: #1d4ed8;
-  --card: #f3f4f6;
-  --border: #e5e7eb;
-  --code-bg: #f3f4f6;
-}
-
-/* ========================================
-   GLOBAL STYLING
+   GLOBAL DARK THEME
 ======================================== */
 
 html, body {
-  background: var(--bg);
-  color: var(--text);
-  transition: background 0.3s ease, color 0.3s ease;
+  background-color: #0f172a;   /* deep slate */
+  color: #e5e7eb;              /* soft white */
 }
 
+/* Smooth color transitions */
+body, a {
+  transition: color 0.2s ease, background 0.2s ease;
+}
+
+/* ========================================
+   LINKS
+======================================== */
+
 a {
-  color: var(--link);
-  transition: color 0.2s ease;
+  color: #60a5fa;  /* blue-400 */
 }
 
 a:hover {
-  color: var(--link-hover);
+  color: #93c5fd;  /* lighter blue */
+  text-decoration: underline;
 }
 
 /* ========================================
-   LAYOUT ELEMENTS (Lagrange-safe)
+   MASTHEAD / SITE TITLE
 ======================================== */
 
-.container,
-.content,
-.post,
-.post-content,
-.page-content,
-.home {
-  background: transparent;
+header.masthead {
+  border-bottom: 1px solid #1f2937;
 }
 
-hr {
-  border-color: var(--border);
+.masthead-title,
+.masthead-title a {
+  color: #f8fafc !important;
+}
+
+.masthead-title a:hover {
+  color: #93c5fd !important;
 }
 
 /* ========================================
-   TEXT & META
+   POST TITLES
 ======================================== */
 
-p, li, span, strong, em {
-  color: var(--text);
+.post-title,
+.post-title a {
+  color: #f1f5f9;
 }
+
+.post-title a:hover {
+  color: #93c5fd;
+}
+
+/* ========================================
+   META TEXT
+======================================== */
 
 .post-meta,
 .date,
 .subtitle,
 small {
-  color: var(--muted);
+  color: #94a3b8;   /* slate-400 */
 }
 
 /* ========================================
-   BLOCKS & CARDS
+   HORIZONTAL RULE
 ======================================== */
 
-.post-card,
-.archive-item,
-.card {
-  background: var(--card);
-  border: 1px solid var(--border);
+hr {
+  border-color: #1f2937;
 }
 
 /* ========================================
@@ -119,23 +79,28 @@ small {
 ======================================== */
 
 blockquote {
-  border-left: 4px solid var(--border);
-  color: var(--muted);
+  border-left: 4px solid #334155;
+  color: #cbd5e1;
 }
 
 /* ========================================
-   CODE
+   CODE BLOCKS
 ======================================== */
 
-pre, code {
-  background: var(--code-bg);
-  color: var(--text);
-}
-
 pre {
+  background: #111827;
+  color: #e5e7eb;
   padding: 1rem;
   overflow-x: auto;
-  border: 1px solid var(--border);
+  border-radius: 6px;
+  border: 1px solid #1f2937;
+}
+
+code {
+  background: #1e293b;
+  color: #e5e7eb;
+  padding: 2px 4px;
+  border-radius: 4px;
 }
 
 /* ========================================
@@ -144,43 +109,29 @@ pre {
 
 table {
   border-collapse: collapse;
-  border: 1px solid var(--border);
+  border: 1px solid #1f2937;
 }
 
 th, td {
-  border: 1px solid var(--border);
+  border: 1px solid #1f2937;
   padding: 8px;
 }
 
 /* ========================================
-   TOGGLE BUTTON
+   CARDS / ARCHIVE LISTS
 ======================================== */
 
-#theme-toggle {
-  background: transparent;
-  border: 1px solid var(--border);
-  color: var(--text);
-  padding: 6px 12px;
-  border-radius: 6px;
-  cursor: pointer;
-  font-size: 0.9rem;
-  transition: background 0.2s ease;
-}
-
-#theme-toggle:hover {
-  background: var(--card);
+.post-card,
+.archive-item {
+  background: #111827;
+  border: 1px solid #1f2937;
 }
 
 /* ========================================
-   Masthead / Site Title (Dark Mode)
+   SELECTION COLOR
 ======================================== */
 
-:root[data-theme="dark"] .masthead-title,
-:root[data-theme="dark"] .masthead-title a {
-  color: #ffffff !important;
+::selection {
+  background: #2563eb;
+  color: white;
 }
-
-:root[data-theme="dark"] .masthead-title a:hover {
-  color: #60a5fa !important;
-}
-
