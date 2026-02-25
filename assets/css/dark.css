@@ -35,7 +35,7 @@ header.masthead {
 
 .masthead-title,
 .masthead-title a {
-  color: #f1f1f1 !important;   /* softer than pure white */
+  color: #e8e8e8 !important;   /* softer than pure white */
   font-weight: 600;
 }
 
@@ -136,3 +136,4 @@ th, td {
   background: #3b82f6;
   color: white;
 }
+
