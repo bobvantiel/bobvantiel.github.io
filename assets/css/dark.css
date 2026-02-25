@@ -1,0 +1,84 @@
+/* Light defaults (fallback) */
+:root {
+  --bg: #ffffff;
+  --text: #111827;
+  --muted: #6b7280;
+  --link: #2563eb;
+  --link-hover: #1d4ed8;
+  --card: #f3f4f6;
+  --border: #e5e7eb;
+  --code-bg: #f3f4f6;
+}
+
+/* Dark mode palette */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0b0f19;
+    --text: #e5e7eb;
+    --muted: #a1a1aa;
+    --link: #60a5fa;
+    --link-hover: #93c5fd;
+    --card: #111827;
+    --border: #1f2937;
+    --code-bg: #0f172a;
+  }
+}
+
+/* Apply to typical Lagrange selectors */
+html, body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+a {
+  color: var(--link);
+}
+a:hover {
+  color: var(--link-hover);
+}
+
+hr, .divider, .post-divider {
+  border-color: var(--border);
+}
+
+/* Common containers */
+.container, .content, .post, .post-content, .page-content, .home {
+  background: transparent;
+}
+
+/* Cards / blocks (adjust selectors to match your theme) */
+.card, .post-card, .archive-item, .post-preview {
+  background: var(--card);
+  border-color: var(--border);
+}
+
+/* Text nuances */
+p, li, blockquote, .post-meta, .date, .subtitle {
+  color: var(--text);
+}
+.muted, .secondary, .post-meta {
+  color: var(--muted);
+}
+
+/* Code blocks */
+pre, code {
+  background: var(--code-bg);
+  color: var(--text);
+}
+pre {
+  border: 1px solid var(--border);
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid var(--border);
+  color: var(--muted);
+}
+
+/* Tables */
+table {
+  border-color: var(--border);
+}
+th, td {
+  border-color: var(--border);
+}
