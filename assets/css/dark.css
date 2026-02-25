@@ -1,13 +1,13 @@
 /* ========================================
-   GLOBAL DARK THEME
+   CHATGPT-STYLE DARK THEME
 ======================================== */
 
 html, body {
-  background-color: #0f172a;   /* deep slate */
-  color: #e5e7eb;              /* soft white */
+  background-color: #212121;   /* neutral charcoal */
+  color: #e8e8e8;              /* soft white */
 }
 
-/* Smooth color transitions */
+/* Smooth transitions */
 body, a {
   transition: color 0.2s ease, background 0.2s ease;
 }
@@ -17,11 +17,11 @@ body, a {
 ======================================== */
 
 a {
-  color: #60a5fa;  /* blue-400 */
+  color: #8ab4f8;  /* softer blue */
 }
 
 a:hover {
-  color: #93c5fd;  /* lighter blue */
+  color: #a6c8ff;
   text-decoration: underline;
 }
 
@@ -30,16 +30,17 @@ a:hover {
 ======================================== */
 
 header.masthead {
-  border-bottom: 1px solid #1f2937;
+  border-bottom: 1px solid #2f2f2f;
 }
 
 .masthead-title,
 .masthead-title a {
-  color: #f8fafc !important;
+  color: #f1f1f1 !important;   /* softer than pure white */
+  font-weight: 600;
 }
 
 .masthead-title a:hover {
-  color: #93c5fd !important;
+  color: #ffffff !important;
 }
 
 /* ========================================
@@ -48,11 +49,11 @@ header.masthead {
 
 .post-title,
 .post-title a {
-  color: #f1f5f9;
+  color: #f3f3f3;
 }
 
 .post-title a:hover {
-  color: #93c5fd;
+  color: #ffffff;
 }
 
 /* ========================================
@@ -63,15 +64,15 @@ header.masthead {
 .date,
 .subtitle,
 small {
-  color: #94a3b8;   /* slate-400 */
+  color: #b5b5b5;
 }
 
 /* ========================================
-   HORIZONTAL RULE
+   DIVIDERS
 ======================================== */
 
 hr {
-  border-color: #1f2937;
+  border-color: #2f2f2f;
 }
 
 /* ========================================
@@ -79,8 +80,8 @@ hr {
 ======================================== */
 
 blockquote {
-  border-left: 4px solid #334155;
-  color: #cbd5e1;
+  border-left: 4px solid #3a3a3a;
+  color: #d0d0d0;
 }
 
 /* ========================================
@@ -88,17 +89,17 @@ blockquote {
 ======================================== */
 
 pre {
-  background: #111827;
-  color: #e5e7eb;
+  background: #2a2a2a;
+  color: #e8e8e8;
   padding: 1rem;
   overflow-x: auto;
   border-radius: 6px;
-  border: 1px solid #1f2937;
+  border: 1px solid #333;
 }
 
 code {
-  background: #1e293b;
-  color: #e5e7eb;
+  background: #2c2c2c;
+  color: #e8e8e8;
   padding: 2px 4px;
   border-radius: 4px;
 }
@@ -109,11 +110,11 @@ code {
 
 table {
   border-collapse: collapse;
-  border: 1px solid #1f2937;
+  border: 1px solid #333;
 }
 
 th, td {
-  border: 1px solid #1f2937;
+  border: 1px solid #333;
   padding: 8px;
 }
 
@@ -123,15 +124,15 @@ th, td {
 
 .post-card,
 .archive-item {
-  background: #111827;
-  border: 1px solid #1f2937;
+  background: #2a2a2a;
+  border: 1px solid #333;
 }
 
 /* ========================================
-   SELECTION COLOR
+   TEXT SELECTION
 ======================================== */
 
 ::selection {
-  background: #2563eb;
+  background: #3b82f6;
   color: white;
 }
