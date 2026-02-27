@@ -36,7 +36,7 @@ header.masthead {
 .masthead-title,
 .masthead-title a {
   color: #e8e8e8 !important;   /* softer than pure white */
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .masthead-title a:hover {
@@ -136,4 +136,5 @@ th, td {
   background: #3b82f6;
   color: white;
 }
+
 
