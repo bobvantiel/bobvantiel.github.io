@@ -55,7 +55,7 @@ title: Publications
 
 * **Bob van Tiel** and Elizabeth Pankratz. <a href="https://www.glossa-journal.org/articles/10.5334/gjgl.1457/" target="_blank">Adjectival polarity and the processing of scalar inferences</a>. Glossa, 6, 32.
 
-* Sherry Yong Chen and **Bob van Tiel**. <a href="https://scholarworks.umass.edu/scil/vol4/iss1/24/](https://aclanthology.org/2021.scil-1.23/" target="_blank">Every ambiguity isn't syntactic in nature: Testing the Rational Speech Act model of scope ambiguity</a>. Proceedings of the Society for Computation in Linguistics, 4, 24.
+* Sherry Yong Chen and **Bob van Tiel**. <a href="https://aclanthology.org/2021.scil-1.23/" target="_blank">Every ambiguity isn't syntactic in nature: Testing the Rational Speech Act model of scope ambiguity</a>. Proceedings of the Society for Computation in Linguistics, 4, 24.
 
 * **Bob van Tiel**, Gaétane Deliens, Philippine Geelhand, Anke Murillo Oosterwijk, and Mikhail Kissine. <a href="https://link.springer.com/article/10.1007/s10803-020-04525-0" target="_blank">Strategic deception in adults with Autism Spectrum Disorder</a>. Journal of Autism and Developmental Disorders, 51, 255-266.
 
