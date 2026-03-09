@@ -5,11 +5,11 @@ title: Publications
 
 **in preparation**
 
-* **Bob van Tiel**, Michael Franke, Uli Sauerland, and Philippine Geelhand. Bespoke probabilistic modelling reveals subtle effects of autism on pragmatic optimisation in the expression of quantification.
-
 * Chao Sun, Elizabeth Pankratz, and **Bob van Tiel**. <a href="http://dx.doi.org/10.2139/ssrn.4980524" target="_blank">Polarity and the online processing of scalar inferences</a>.
 
 **to appear**
+
+* **Bob van Tiel**, Michael Franke, Uli Sauerland, and Philippine Geelhand. Bespoke probabilistic modelling reveals subtle effects of autism on pragmatic optimisation in the expression of quantification. Computational Brain & Behavior.
 
 * Federica Longo, Daniele Panizza, Greta Mazzaggio, and **Bob van Tiel**. The (in)felicity of <i>a dog or a reindeer</i>: On the interpretation and processing of ignorance and scalar inferences triggered by disjunction. Proceedings of Sinn und Bedeutung 30.
 
