@@ -9,7 +9,7 @@ title: Publications
 
 **to appear**
 
-* **Bob van Tiel**, Michael Franke, Uli Sauerland, and Philippine Geelhand. Bespoke probabilistic modelling reveals subtle effects of autism on pragmatic optimisation in the expression of quantification. Computational Brain & Behavior.
+* **Bob van Tiel**, Michael Franke, Uli Sauerland, and Philippine Geelhand. <a href="https://bobvantiel.github.io/docs/BespokeAutism.pdf" target="_blank">Bespoke probabilistic modelling reveals subtle effects of autism on pragmatic optimisation in the expression of quantification.</a> Computational Brain & Behavior.
 
 * Federica Longo, Daniele Panizza, Greta Mazzaggio, and **Bob van Tiel**. The (in)felicity of <i>a dog or a reindeer</i>: On the interpretation and processing of ignorance and scalar inferences triggered by disjunction. Proceedings of Sinn und Bedeutung 30.
 
