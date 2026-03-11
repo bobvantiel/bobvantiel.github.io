@@ -103,7 +103,7 @@ title: Publications
 
 **2012**
 
-* **Bob van Tiel**. <a href="http://mitwpl.mit.edu/open/sub16/VanTiel.pdf" target="_blank">Universal free choice?</a> In: Ana Aguilar Guevara, Anna Chernilovskaya, and Rick Nouwen (Eds.), Proceedings of Sinn und Bedeutung 16 (pp. 627-638). MIT Working Papers in Linguistics.
+* **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/UniversalFreeChoice.pdf" target="_blank">Universal free choice?</a> In: Ana Aguilar Guevara, Anna Chernilovskaya, and Rick Nouwen (Eds.), Proceedings of Sinn und Bedeutung 16 (pp. 627-638). MIT Working Papers in Linguistics.
 
 * Jacques Jayez and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/OnlyOnly.pdf" target="_blank">Only *only*: An experimental window on exclusiveness</a>. In: Maria Aloni, Vadim Kimmelman, Floris Roelofsen, Galit W. Sassoon, Katrin Schulz, and Matthijs Westera (Eds.), Proceedings of the 18th Amsterdam Colloquium (pp. 391-400). Springer.
 
