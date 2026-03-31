@@ -15,6 +15,10 @@ title: Publications
 
 * **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ApproachesV2.pdf" target="_blank">Approaches to scalar inferences</a>. In Antonio Fábregas, Laia Mayol, Clàudia Pons-Mol, and Yanina Prystauka (Eds.), The Cambridge handbook of linguistic interfaces. Cambridge University Press.
 
+**2026**
+
+* Greta Mazzaggio, Federica Longo, Penka Stateva, and **Bob van Tiel**. <a href="https://doi.org/10.1017/S1366728925000392" target="_blank">Scalar diversity and second-language processing of scalar inferences: A cross-linguistic analysis</a>. Bilingualism: Language and Cognition, 29, 309-321.
+
 **2025**
 
 * Ahmed Khorsheed and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/L2TaskDemands.pdf" target="_blank">Why second-language speakers sometimes but not always derive scalar inferences like first-language speakers: Effects of task demands</a>. Language Acquisition, 32, 619-637.
@@ -22,8 +26,6 @@ title: Publications
 * Harriet Yates, Corien Bary, Peter de Swart, and **Bob van Tiel**. <a href="https://doi.org/10.18148/sub/2024.v29.1308" target="_blank">fEMG as a window into conversational commitments</a>. In Federica Longo and Daniele Panizza (Eds.), Proceedings of Sinn und Bedeutung 29 (pp. 1765-1783).
 
 * **Bob van Tiel** and Bart Geurts. <a href="https://bobvantiel.github.io/docs/Conventions.pdf" target="_blank">Conventions, coordination, and arbitrariness</a>. In Bart Geurts and Richard Moore (Eds.), Evolutionary pragmatics (pp. 179-195). Oxford University Press.
-
-* Greta Mazzaggio, Federica Longo, Penka Stateva, and **Bob van Tiel**. <a href="https://doi.org/10.1017/S1366728925000392" target="_blank">Scalar diversity and second-language processing of scalar inferences: A cross-linguistic analysis</a>. Bilingualism: Language and Cognition.
 
 **2024**
 
