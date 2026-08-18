@@ -69,7 +69,7 @@ title: Publications
 
 * Bart Geurts, Mikhail Kissine, and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/PragmaticReasoningASD.pdf" target="_blank">Pragmatic reasoning in autism</a>. In Kinga Morsanyi and Ruth Byrne (Eds.), Thinking, reasoning and decision making in autism (pp. 113-134). Routledge.
 
-* **Bob van Tiel**, Elizabeth Pankratz, Paul Marty, and Chao Sun. <a href="https://semanticsarchive.net/Archive/Tg3ZGI2M/Vantiel.pdf" target="_blank">Scalar inferences and cognitive load</a>. In M. Teresa Espinal, Elena Castroviejo, Manuel Leonetti, Louise McNally, and Cristina Real-Puigdollers (Eds.), Proceedings of Sinn und Bedeutung 23 (pp. 427-441).
+* **Bob van Tiel**, Elizabeth Pankratz, Paul Marty, and Chao Sun. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/622" target="_blank">Scalar inferences and cognitive load</a>. Proceedings of Sinn und Bedeutung, 23, 427-441.
 
 * Philippine Geelhand, Philippe Bernard, Olivier Klein, **Bob van Tiel**, and Mikhail Kissine. <a href="https://molecularautism.biomedcentral.com/articles/10.1186/s13229-019-0266-4" target="_blank">The role of gender in the perception of autism symptom severity and future behavioral development</a>. Molecular Autism, 10, 1-16.
 
@@ -99,7 +99,7 @@ title: Publications
 
 * **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ScalarsTypicality.pdf" target="_blank">Embedded scalars and typicality</a>. Journal of Semantics, 31, 147-177.
 
-* **Bob van Tiel** and Bart Geurts. <a href="https://semanticsarchive.net/sub2013/SeparateArticles/vanTiel&Geurts.pdf" target="_blank">Truth and typicality in the interpretation of quantifiers</a>. In Urtzi Etxeberria, Anamaria Fălăuș, Aritz Irurtzun, Bryan Leferman (Eds.), Proceedings of Sinn und Bedeutung 18 (pp. 433-450).
+* **Bob van Tiel** and Bart Geurts. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/327" target="_blank">Truth and typicality in the interpretation of quantifiers</a>. Proceedings of Sinn und Bedeutung, 18, 433-450.
 
 **2013**
 
@@ -107,7 +107,7 @@ title: Publications
 
 **2012**
 
-* **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/UniversalFreeChoice.pdf" target="_blank">Universal free choice?</a> In: Ana Aguilar Guevara, Anna Chernilovskaya, and Rick Nouwen (Eds.), Proceedings of Sinn und Bedeutung 16 (pp. 627-638). MIT Working Papers in Linguistics.
+* **Bob van Tiel**. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/452" target="_blank">Universal free choice?</a> Proceedings of Sinn und Bedeutung, 16, 627-638.
 
 * Jacques Jayez and **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/OnlyOnly.pdf" target="_blank">Only *only*: An experimental window on exclusiveness</a>. In: Maria Aloni, Vadim Kimmelman, Floris Roelofsen, Galit W. Sassoon, Katrin Schulz, and Matthijs Westera (Eds.), Proceedings of the 18th Amsterdam Colloquium (pp. 391-400). Springer.
 
