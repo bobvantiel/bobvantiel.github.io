@@ -15,7 +15,7 @@ title: Publications
 
 **2026**
 
-* Federica Longo, Daniele Panizza, Greta Mazzaggio, and **Bob van Tiel**. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1362" target="_blank">The (in)felicity of <i>a dog or a reindeer</i>: On the interpretation and processing of ignorance and scalar inferences triggered by disjunction</a>. Proceedings of Sinn und Bedeutung, 30, 679-696.
+* Federica Longo, Daniele Panizza, Greta Mazzaggio, and **Bob van Tiel**. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1362" target="_blank">The (in)felicity of a dog 'or' a reindeer: On the interpretation and processing of ignorance and scalar inferences triggered by disjunction</a>. Proceedings of Sinn und Bedeutung, 30, 679-696.
 
 * **Bob van Tiel**, Michael Franke, Uli Sauerland, and Philippine Geelhand. <a href="https://link.springer.com/article/10.1007/s42113-026-00274-y" target="_blank">Bespoke probabilistic modelling reveals subtle effects of autism on pragmatic optimisation in the expression of quantification</a>. Computational Brain & Behavior.
 
