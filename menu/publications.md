@@ -5,15 +5,17 @@ title: Publications
 
 **in preparation**
 
+* Eline Ensinck, Corien Bary, Michael Franke, and **Bob van Tiel**. Human- or machinelike verbs: Measuring anthropomorphism of chatbots via a cloze task.
+
 * Chao Sun, Elizabeth Pankratz, and **Bob van Tiel**. Polarity and the online processing of scalar inferences.
 
 **to appear**
 
-* Harriet Yates, **Bob van Tiel**, Peter de Swart, and Corien Bary. The effect of hearsay on speaker commitment: An fEMG study. Open Mind.
-
 * **Bob van Tiel**. <a href="https://bobvantiel.github.io/docs/ApproachesV3.pdf" target="_blank">The semantics-pragmatics interface (I): Approaches to scalar inferences</a>. In Antonio Fábregas, Laia Mayol, Clàudia Pons-Mol, and Yanina Prystauka (Eds.), The Cambridge handbook of linguistic interfaces. Cambridge University Press.
 
 **2026**
+
+* Harriet Yates, **Bob van Tiel**, Peter de Swart, and Corien Bary. <a href="https://doi.org/10.1162/OPMI.a.382" target="_blank">The effect of hearsay on speaker commitment: An fEMG study</a>. Open Mind, 10, 1338-1358.
 
 * Federica Longo, Daniele Panizza, Greta Mazzaggio, and **Bob van Tiel**. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1362" target="_blank">The (in)felicity of a dog 'or' a reindeer: On the interpretation and processing of ignorance and scalar inferences triggered by disjunction</a>. Proceedings of Sinn und Bedeutung, 30, 679-696.
 
